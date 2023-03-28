@@ -33,4 +33,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O CalculadoraCombustível é um aplicativo onde calcula o preço entre o álcool e a gasolina, informando qual compensa usar.
 
-- [Baixar APK para teste](https://drive.google.com/file/d/1hVjUFn1Ro_ARTgSHqG7AOgJvKk1yDiTS/view?usp=sharing){:target="_blank" rel="noopener"}
+- <a href="https://drive.google.com/file/d/1hVjUFn1Ro_ARTgSHqG7AOgJvKk1yDiTS/view?usp=sharing/" target="_blank" >Baixar APK para teste</a>
+- [Baixar APK para teste](https://drive.google.com/file/d/1hVjUFn1Ro_ARTgSHqG7AOgJvKk1yDiTS/view?usp=sharing?target=_blank)
